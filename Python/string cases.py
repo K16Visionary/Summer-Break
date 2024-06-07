@@ -1,11 +1,11 @@
 def trim(str):
-    return str.strip()
+    return str.strip()     
 
 def exists(str, x):
-    return exists(str, x)
+    return str.find(x)      
 
 def titleIt(str):
-    return str.title()
+    return str.title()      
 
 def casesSwap(str):
     return str.swapcase()
