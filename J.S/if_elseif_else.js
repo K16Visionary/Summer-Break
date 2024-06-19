@@ -9,4 +9,4 @@ if(num1>num2){
     console.log(num1,": is Equal to :",num2);
 } else {
     console.log(num2,": is greater than :",num1);
-}
+} 
